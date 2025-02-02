@@ -1,0 +1,10 @@
+# The Indian Ocean Tuna Commission
+The Indian Ocean Tuna Commission (IOTC) is an intergovernmental organisation established under article XIV of the constitution of the United Nations Food and Agriculture Organisation ([FAO](https://www.fao.org/home/en/)). The [IOTC Agreement](https://iotc.org/sites/default/files/documents/2012/5/25/IOTC%20Agreement.pdf) was concluded in 1993 and entered in force in 1998. The IOTC is mandated to manage tuna and tuna-like species in the Indian Ocean and adjacent seas with primary objective the conservation and optimum utilisation of the stocks for long term sustainability.
+
+The overarching objective of the Commission is to promote cooperation among the Contracting Parties and Cooperating Non-Contracting Parties of the IOTC ([CPCs](https://iotc.org/about-iotc/structure-commission)) with a view to ensuring, through appropriate management, the conservation and optimum utilisation of stocks covered by the organisation’s establishing Agreement and encouraging sustainable development of fisheries based on such stocks.
+
+# The IOTC Secretariat
+
+The mission of the Secretariat is "_to facilitate the processes required to implement the policies and activities of the Commission, whose goal is to achieve the objectives stated in the IOTC Agreement_". In essence, these processes include the acquisition, processing and dissemination of information that constitutes the basis for the Commission's decisions, as well as supporting the actions taken by the CPCs to implement effectively those decisions.
+
+The Secretariat is divided into sections composed of staff with similar specialised skills. In order to provide support to the scientific activities of the Commission and its subsidiary bodies, there is close cooperation between the Sections in the production of datasets and analyses that will assist the Scientific Committee and its Working Parties to formulate its advice to the Commission. Similarly, the Data Section and the Compliance Section cooperate in the maintenance of the databases needed to monitor the effectiveness in the implementation of the measures adopted by the Members.
